@@ -5,8 +5,8 @@ I'am a software craftsman passionate about software design and crafting digital 
 
 #### 💻 Projects
 - [Koi](https://github.com/koi18n/koi18n) - 🌐🚀 Blazing-fast i18n
-- [React to Image](https://github.com/hugocxl/react-to-image) - ⚛️📸 Hooks for converting your React components to images
-- [React ECharts](https://github.com/kbox-labs/react-echarts) - ⚛️🐳 ECharts for React
+- [React to Image](https://github.com/hugocxl/react-to-image) - 📸 Hooks for converting your React components to images
+- [React ECharts](https://github.com/kbox-labs/react-echarts) - 🐳 ECharts for React
 - [TS Lib Template](https://github.com/hugocxl/ts-library-template) - 💎 A template for crafting Typescript libraries
 - [Serika](https://github.com/hugocxl/serika) - 🎨 Serika Theme for Visual Studio Code
 - [Haramosh](https://github.com/hugocxl/haramosh) - 🎨 Haramosh Theme for Visual Studio Code
