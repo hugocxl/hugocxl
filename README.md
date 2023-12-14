@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Hugo 
 
-#### Tech Lead at @Vitruve
+#### Tech Lead at [@Vitruve](https://vitruve.fit/)
 I'am a software craftsman passionate about software design and crafting digital products.
 
 #### 💻 Projects
