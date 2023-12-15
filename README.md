@@ -6,7 +6,7 @@ I'am a software craftsman passionate about software design and crafting digital 
 #### 💻 Projects
 - [Koi](https://github.com/koi18n/koi18n) - 🌐🚀 Blazing-fast i18n
 - [React to Image](https://github.com/hugocxl/react-to-image) - 📸 Hooks for converting your React components to images
-- [React ECharts](https://github.com/kbox-labs/react-echarts) - 🐳 ECharts for React
+- [React ECharts](https://github.com/hugocxl/react-echarts) - 🐳 ECharts for React
 - [Typescript Library Starter](https://github.com/hugocxl/typescript-library-starter) - 💎 A template for crafting Typescript libraries
 - [hugocxl.me](https://github.com/hugocxl/hugocxl.me) - ⚡️ My site built with Next.js, PandaCSS, Notion, and Vercel
 - [Software Design Essentials](https://github.com/hugocxl/software-design-essentials) - 🏛️ TLDR for Software Design
