@@ -5,7 +5,7 @@ Hi, I'm Hugo. Most folks know me as **hugocxl** online.
 I'am a software craftsman passionate about software design and crafting digital products.
 
 #### 💻 Projects
-- [Terai](https://github.com/teraihq/terai) - 🌐🚀 A modern i18n framework
+- [Terai](https://github.com/teraihq/terai) - 🌐🚀 Next-gen i18n framework
 - [React to Image](https://github.com/hugocxl/react-to-image) - 📸 Hooks for converting your React components to images
 - [React ECharts](https://github.com/hugocxl/react-echarts) - 🐳 ECharts for React
 - [Typescript Library Starter](https://github.com/hugocxl/typescript-library-starter) - 💎 A template for crafting Typescript libraries
