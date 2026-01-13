@@ -6,6 +6,7 @@ I'am a software craftsman passionate about software design and crafting digital 
 
 #### 💻 Projects
 - [Terai](https://github.com/teraihq/terai) - 🌐🚀 Next-gen i18n framework
+- [Git File Timeline](https://github.com/hugocxl/git-file-timeline) - 📜 Navigate your file's commit timeline with syntax-highlighted diffs
 - [React to Image](https://github.com/hugocxl/react-to-image) - 📸 Hooks for converting your React components to images
 - [React ECharts](https://github.com/hugocxl/react-echarts) - 🐳 ECharts for React
 - [Typescript Library Starter](https://github.com/hugocxl/typescript-library-starter) - 💎 A template for crafting Typescript libraries
