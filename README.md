@@ -5,6 +5,7 @@ CTO at [Vitruve](https://vitruve.fit/). I build digital products and developer t
 #### 💻 Projects
 
 - [Tab](https://github.com/hugocxl/tab) — 🖥️ A fully native terminal multiplexer + agent development environment for Mac
+- [Quickshot](https://github.com/hugocxl/quickshot) — 📸 Capture your Mac’s screen with both Command keys and paste the file path into your tools.
 - [AgentKit](https://github.com/hugocxl/agentkit) — 🤖 Embed native AI conversations in macOS apps. Swift conversation UI and runtime for local Claude Code and Codex CLIs.
 - [IconsCXL](https://github.com/hugocxl/iconscxl) — 🎨 2,198 rounded icons in Duotone, Solid, and Stroke. SVGs and Swift, JavaScript, React, and React Native integrations.
 - [Terai](https://github.com/terai-labs/terai) — 🌐🚀 Modern localization for TypeScript codebases
