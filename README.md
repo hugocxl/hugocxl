@@ -1,18 +1,12 @@
 ### Hi, I'm Hugo 👋
 
-Tech Lead at [Vitruve](https://vitruve.fit/). I build digital products and developer
-tools, with a focus on software design and native apps. You'll find me online as
-**hugocxl**.
+CTO at [Vitruve](https://vitruve.fit/). I build digital products and developer tools, with a focus on software design and native apps. You'll find me online as **hugocxl**.
 
-#### 🚀 Latest projects
+#### 💻 Projects
 
-- [Tab](https://github.com/hugocxl/tab) — A fully native terminal multiplexer and agent development environment for Mac. Terminals, coding agents, simulators, and browsers in one workspace. [Website](https://hugocxl.github.io/tab/)
+- [Tab](https://github.com/hugocxl/tab) — A fully native terminal multiplexer and agent development environment for Mac. 
 - [AgentKit](https://github.com/hugocxl/agentkit) — Embed native AI conversations in macOS apps with a Swift package backed by local Claude Code or Codex CLIs.
 - [IconsCXL](https://github.com/hugocxl/iconscxl) — 2,198 rounded icons in Duotone, Solid, and Stroke, with SVG, Swift, JavaScript, React, and React Native integrations.
-- [Apollo](https://github.com/hugocxl/apollo) — An open-source brain for physical agentic devices, powered by Cloudflare Workers.
-
-#### 💻 More projects
-
 - [Terai](https://github.com/terai-labs/terai) — An internationalization framework.
 - [Git File Timeline](https://github.com/hugocxl/git-file-timeline) — Browse a file's commit history with syntax-highlighted diffs.
 - [React to Image](https://github.com/hugocxl/react-to-image) — Hooks for converting React components to images.
