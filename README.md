@@ -2,14 +2,19 @@
 
 CTO at [Vitruve](https://vitruve.fit/). I build digital products and developer tools, with a focus on software design and native apps. You'll find me online as **hugocxl**.
 
+#### 🧱 Stack
+
+Three libraries, designed to work as one.
+
+- [**@hugocxl/icons**](https://hugocxl.github.io/icons/) — 🎨 2,233 rounded icons in Duotone, Solid and Stroke that label what people can do. [GitHub](https://github.com/hugocxl/icons)
+- [**@hugocxl/vectors**](https://hugocxl.github.io/vectors/) — 🧊 2,000 isometric line illustrations that show what you mean. [GitHub](https://github.com/hugocxl/vectors)
+- [**@hugocxl/design-system**](https://hugocxl.github.io/design-system/) — 📐 A text-led design system that gives them the type, color and space to live in. [GitHub](https://github.com/hugocxl/design-system)
+
 #### 💻 Projects
 
 - [Tab](https://github.com/hugocxl/tab) — 🖥️ A fully native terminal multiplexer + agent development environment for Mac
 - [Quickshot](https://github.com/hugocxl/quickshot) — 📸 Capture your Mac’s screen with both Command keys and paste the file path into your tools.
 - [AgentKit](https://github.com/hugocxl/agentkit) — 🤖 Embed native AI conversations in macOS apps. Swift conversation UI and runtime for local Claude Code and Codex CLIs.
-- [Icons](https://github.com/hugocxl/icons) — 🎨 2,233 rounded icons in Duotone, Solid and Stroke for the web, React, React Native and Swift.
-- [Vectors](https://github.com/hugocxl/vectors) — 🧊 2,000 isometric line illustrations for websites and products, for the web, React, React Native and Swift.
-- [Design System](https://github.com/hugocxl/design-system) — 📐 A text-led design system for websites: tokens, components, page recipes and rules.
 - [Terai](https://github.com/terai-labs/terai) — 🌐🚀 Modern localization for TypeScript codebases
 - [Git File Timeline](https://github.com/hugocxl/git-file-timeline) — Quickly browse the history of a file from any git repository
 - [React to Image](https://github.com/hugocxl/react-to-image) — 📸 Hooks for converting your React components to images
