@@ -8,10 +8,11 @@ You'll find me online as **hugocxl**.
 
 #### 🧱 Stack
 
-Three libraries, designed to work as one.
+Four libraries, designed to work as one.
 
 - [**@hugocxl/icons**](https://hugocxl.github.io/icons/) — 🎨 2,233 rounded icons in Duotone, Solid and Stroke that label what people can do. [GitHub](https://github.com/hugocxl/icons)
 - [**@hugocxl/vectors**](https://hugocxl.github.io/vectors/) — 🧊 2,000 isometric line illustrations that show what you mean. [GitHub](https://github.com/hugocxl/vectors)
+- [**@hugocxl/sounds**](https://hugocxl.github.io/sounds/) — 🔊 15 tactile interface sounds and 9 haptics, synthesized live with Web Audio, that make every press feel real. [GitHub](https://github.com/hugocxl/sounds)
 - [**@hugocxl/design-system**](https://hugocxl.github.io/design-system/) — 📐 My personal design system, the signature across every project, giving them the type, color and space to live in. [GitHub](https://github.com/hugocxl/design-system)
 
 #### 💻 Projects
