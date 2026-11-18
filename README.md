@@ -1,6 +1,10 @@
 ### Hi, I'm Hugo 👋
 
-CTO at [Vitruve](https://vitruve.fit/). I build digital products and developer tools, with a focus on software design and native apps. You'll find me online as **hugocxl**.
+CTO at [Vitruve](https://vitruve.fit/). 
+
+I build digital products and developer tools, with a focus on software design and native apps. 
+
+You'll find me online as **hugocxl**.
 
 #### 🧱 Stack
 
